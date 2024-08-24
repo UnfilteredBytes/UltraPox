@@ -1,0 +1,22 @@
+{
+    "ultrapox": {
+        "--input-bg-color": "#651895",
+        "--main-text-color": "#dadada",
+        "--p-text-color": "#a1a1a1",
+        "--border-color": "#979797bb",
+        "--game-color": "#5e5e5e66",
+        "--bg-1": "#0c0c0c",
+        "--bg-2": "#030303",
+        "--invert-logo": "0"
+    },
+    "lightmode": {
+        "--input-bg-color": "#aaaaaa88",
+        "--main-text-color": "#555555",
+        "--p-text-color": "#a1a1a1",
+        "--border-color": "#5a5a5abb",
+        "--game-color": "#5e5e5e66",
+        "--bg-1": "#dcdcdc",
+        "--bg-2": "#d3d3d3",
+        "--invert-logo": "1"
+    }
+}

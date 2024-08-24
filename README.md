@@ -1,6 +1,6 @@
 ## UltraPox
 
-## Your gaming dreams, come true.
+## Easy deploying, Easy gaming.
 
 UltraPox is a custom-made gaming website built to be easily deployed, easily accessable, and easily playable to satisfy your gaming experience!
 With our security and games, you'll be sure that UltraPox is THE choice!

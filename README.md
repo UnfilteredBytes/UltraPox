@@ -5,6 +5,8 @@
 UltraPox is a custom-made gaming website built to be easily deployed, easily accessable, and easily playable to satisfy your gaming experience!
 With our security and games, you'll be sure that UltraPox is THE choice!
 
+This is VERY new, expect mistakes here and there.
+
 ## Q&A
 
 <details>
@@ -17,6 +19,14 @@ With our security and games, you'll be sure that UltraPox is THE choice!
   <summary>How can we suggest more games?</summary>
 
   ### You can suggest anything you're thinking of in our suggestions page. It just can't be as big as fnf ☠️
+  <details>
+  <summary>Can we fork this repository?</summary>
+  ### Go ahead, as long as you credit us and keep everything related to credits.
+    
+    <details>
+  <summary>How can I talk to you guys?</summary>
+  ### You can talk to us or anybody in our Discussions.
+  
 </details>
 
 </details>

@@ -1,0 +1,126 @@
+[
+  
+      {
+    "name": "Slope 3",
+    "image": "cover.svg",
+    "directory": "slope3",
+    "recommended": "1"
+  },
+      {
+    "name": "Minesweeper",
+    "image": "cover.svg",
+    "directory": "minesweeper",
+    "recommended": "1"
+  },
+       {
+    "name": "Pool",
+    "image": "cover.svg",
+    "directory": "pool",
+    "recommended": "1"
+  }, 
+    {
+    "name": "Hill Climb Racing 2",
+    "image": "cover.svg",
+    "directory": "hillclimbracing2",
+    "recommended": "1"
+  },
+   {
+    "name": "Awesome Tanks",
+    "image": "cover.svg",
+    "directory": "awesometanks",
+    "recommended": "1"
+  },
+  {
+    "name": "Flappy Plane",
+    "directory": "flappyplane",
+    "image": "favicon.ico",
+    "recommended": "1"
+  },
+  {
+    "name": "A Dance of Fire & Ice",
+    "directory": "adofai",
+    "image": "icon.png",
+    "recommended": "1"
+  },
+   {
+    "name": "Friday Night Funkin",
+    "directory": "fridaynightfunkin",
+    "image": "fnf-icon.jpg",
+    "recommended": "1"
+  },
+   {
+    "name": "Worlds Hardest Game",
+    "directory": "worldshardestgame",
+    "image": "icon.png"
+  },
+  {
+    "name": "Mario",
+    "directory": "mario",
+    "image": "icon.png"
+  },
+  {
+    "name": "60s Burger Run",
+    "directory": "60sburgerrun",
+    "image": "icon.png"
+  },
+    {
+    "name": "Vex 3",
+    "directory": "vex3",
+    "image": "icon.png"
+  },
+  {
+    "name": "Slope",
+    "directory": "slope",
+    "image": "slope4.jpeg"
+  },
+   {
+    "name": "Run 2",
+    "directory": "run2",
+    "image": "icon.jpg"
+  },
+   {
+    "name": "Vex 5",
+    "directory": "vex5",
+    "image": "icon.png"
+  },
+   {
+    "name": "Vex 4",
+    "directory": "vex4",
+    "image": "vex4.png"
+  },
+  {
+    "name": "Vex 2",
+    "directory": "vex2",
+    "image": "icon.png"
+  },
+   {
+    "name": "Crossy Road",
+    "directory": "crossyroad",
+    "image": "chicken.png"
+  },
+  {
+    "name": "Gun Mayhem 2",
+    "directory": "gunmayhem2",
+    "image": "icon.png"
+  },
+   {
+    "name": "Vex",
+    "directory": "vex",
+    "image": "icon.png"
+  },
+   {
+    "name": "paper.io",
+    "directory": "paperio",
+    "image": "icon.png"
+  },
+    {
+    "name": "1v1.lol",
+    "directory": "1v1lol",
+    "image": "splash.png"
+  },
+   {
+    "name": "Geometry Dash",
+    "directory": "geometrydash",
+    "image": "icon.png"
+  },
+  

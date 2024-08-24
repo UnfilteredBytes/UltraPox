@@ -10,7 +10,7 @@ With our security and games, you'll be sure that UltraPox is THE choice!
 <details>
   <summary>What if the official site is blocked?</summary>
 
-  ### Use it in a proxy, or deploy it with our repos.
+  ### Use it in a proxy, or deploy it with this repo. You can do that in one click with our buttons below.
 </details>
 
 <details>

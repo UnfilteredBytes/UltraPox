@@ -56,16 +56,6 @@
     "image": "icon.jpg"
   },
    {
-    "name": "Vex 5",
-    "directory": "vex5",
-    "image": "icon.png"
-  },
-   {
-    "name": "Vex 4",
-    "directory": "vex4",
-    "image": "vex4.png"
-  },
-  {
     "name": "Vex 2",
     "directory": "vex2",
     "image": "icon.png"

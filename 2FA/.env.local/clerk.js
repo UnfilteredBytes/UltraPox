@@ -1,6 +1,6 @@
 npm install @clerk/nextjs
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_d29uZHJvdXMtc2VhZ3VsbC03MC5jbGVyay5hY2NvdW50cy5kZXYk
-CLERK_SECRET_KEY=201e2737e9d604fd704e5366c136443313d186f6
+CLERK_SECRET_KEY=sk_test_8S88x6ASqPhZNUWkj4UJpHVDbnwhtODKERA6IMIwNX
 import { clerkMiddleware } from "@clerk/nextjs/server";
 
 export default clerkMiddleware();

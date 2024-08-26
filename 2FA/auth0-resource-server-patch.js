@@ -1,4 +1,5 @@
-{
+const axios = require('axios');
+let data = JSON.stringify({
   "name": "string",
   "scopes": [
     {
@@ -30,4 +31,23 @@
     "mechanism": "mtls",
     "required": true
   }
-}
+});
+
+let config = {
+  method: 'patch',
+  maxBodyLength: Infinity,
+  url: 'https://login.auth0.com/api/v2/resource-servers/:id',
+  headers: { 
+    'Content-Type': 'application/json', 
+    'Accept': 'application/json'
+  },
+  data : data
+};
+
+axios.request(config)
+.then((response) => {
+  console.log(JSON.stringify(response.data));
+})
+.catch((error) => {
+  console.log(error);
+});

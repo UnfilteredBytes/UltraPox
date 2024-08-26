@@ -9,32 +9,25 @@ This is VERY new, expect mistakes here and there.
 
 ## Q&A
 
-<details>
-  <summary>What if the official site is blocked?</summary>
-
+- What if the official site is blocked?</summary>
   ### Use it in a proxy, or deploy it with this repo. You can do that in one click with our buttons below.
-</details>
 
-<details>
-  <summary>How can we suggest more games?</summary>
+
+- How can we suggest more games?
 
   ### You can suggest anything you're thinking of in our suggestions page, just dont make us download a ton of things or we will scrap it 😭
-  <details>
-  <summary>Can we fork this repository?</summary>
+- Can we fork this repository?
   ### Go ahead, as long as you credit us and keep everything related to credits.
     
-    <details>
-  <summary>How can I talk to you guys?</summary>
+- How can I talk to you guys?
   ### You can talk to us or anybody in our Discussions.
   
-      <details>
-  <summaryWhat if you guys get your accounts disabled?</summary>
+- What if you guys get your accounts disabled?
   ### If so, then there will be no updates and this repo wouldn't exist.
   
 </details>
-
 </details>
-  <summary>Credits</summary>
+  <summary>C R E D I T S</summary>
 
   <pre>
   - P1xel10 - HEAD DEV

@@ -5,7 +5,7 @@
 UltraPox V1 is a custom-made gaming website built to be easily deployed, easily accessable, and easily playable to satisfy your gaming experience!
 With our security and games, you'll be sure that UltraPox V1 is THE choice!
 
-This is VERY new, expect mistakes here and there.
+# WE NOTICED A BUG, WE ARE WORKING ON THAT AT THE MOMENT. #
 
 ## Q&A
 

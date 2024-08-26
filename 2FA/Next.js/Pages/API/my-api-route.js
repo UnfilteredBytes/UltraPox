@@ -9,7 +9,7 @@ export const config = {
 };
 
 export default function handler(req, res) {
-  // Your custom logic here
+  // import clerkMiddleware,
   if (req.method === 'POST') {
     // Process a POST request
     // ...

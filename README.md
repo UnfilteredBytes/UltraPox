@@ -1,1 +1,52 @@
-## This repo will be archived until 2FA is installed.
+## UltraPox V1
+
+## Easy deploying, Easy entertainment.
+
+UltraPox V1 is a custom-made gaming website built to be easily deployed, easily accessable, and easily playable to satisfy your gaming experience!
+With our security and games, you'll be sure that UltraPox V1 is THE choice!
+
+This is VERY new, expect mistakes here and there.
+
+## Q&A
+
+<details>
+  <summary>What if the official site is blocked?</summary>
+
+  ### Use it in a proxy, or deploy it with this repo. You can do that in one click with our buttons below.
+</details>
+
+<details>
+  <summary>How can we suggest more games?</summary>
+
+  ### You can suggest anything you're thinking of in our suggestions page, just dont make us download a ton of things or we will scrap it 😭
+  <details>
+  <summary>Can we fork this repository?</summary>
+  ### Go ahead, as long as you credit us and keep everything related to credits.
+    
+    <details>
+  <summary>How can I talk to you guys?</summary>
+  ### You can talk to us or anybody in our Discussions.
+  
+      <details>
+  <summaryWhat if you guys get your accounts disabled?</summary>
+  ### If so, then there will be no updates and this repo wouldn't exist.
+  
+</details>
+
+</details>
+  <summary>Credits</summary>
+
+  <pre>
+  - P1xel10 - HEAD DEV
+  - Pxl12 - DEV
+  - This will grow in the future.
+  </pre>
+</details>
+
+## Deploy to a Cloud service
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=[https://github.com/P1xel10/UltraPox/)
+[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/P1xel10/UltraPox)
+[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=[https://github.com/P1xel10/UltraPox)
+[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github//P1xel10/UltraPox)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/https://github.com/P1xel10/UltraPox)
+[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/P1xel10/UltraPox/)

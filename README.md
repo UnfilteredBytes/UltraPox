@@ -36,6 +36,11 @@ This is VERY new, expect mistakes here and there.
   </pre>
 </details>
 
+## Changelogs V1.1
+1. Added Authenticator (make accounts now!!)
+
+
+
 ## Deploy to a Cloud service
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=[https://github.com/P1xel10/UltraPox/)
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/P1xel10/UltraPox)

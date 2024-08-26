@@ -465,7 +465,6 @@ V
 .
 
 
-https://www.youtube.com/@NickDiGiovanni
+chip.
 
-
-ITS NOT MY YT CHNNEL
+https://www.youtube.com/watch?v=WIRK_pGdIdA&list=PLQPKsYounDJOMPdDba6tsg5XSAYQvQnDj
